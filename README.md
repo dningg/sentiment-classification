@@ -1,1 +1,1 @@
-# Emotion Classification of Financial News
+# SENTIMENT ANALYSIS IN ECONOMIC ARTICLES AND NEWS
